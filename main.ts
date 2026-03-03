@@ -1,3 +1,4 @@
+import '@scalar/api-reference/style.css' 
 import { createApiReference } from '@scalar/api-reference'
 import spec from './openapi.json'
 
